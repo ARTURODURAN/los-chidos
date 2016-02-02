@@ -1,7 +1,7 @@
 public class jelou(){
 	
 	public void cotorreando (){
-		System.out.println("Aqui nada mas estamos cotorreando");
+		System.out.println("Mamadas, mamadas pendejas");
 	}
 	
 	String cad ="El OLiver es bien puto";
