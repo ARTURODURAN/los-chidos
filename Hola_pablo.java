@@ -1,5 +1,5 @@
 public class jelou(){
 	public static void main(String[] args){
-		system.out.println("Jelou Pablo");
+		system.out.println("nomar es omosexual");
 	}
 }
