@@ -1,7 +1,7 @@
 public class jelou(){
 	
-	String cad ="El Nomar es Gay";
+	String cad ="El OLiver es Gay";
 	public static void main(String[] args){
-		system.out.println("nomar es homosexual" + "\n"+cad);
+		system.out.println("Oliver es homosexual" + "\n"+cad);
 	}
 }
